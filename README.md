@@ -1,4 +1,4 @@
-# Canny-Edge-Detection
+# WORKSHOP 3 : Canny-Edge-Detection
 <H3>Name: PREETHI A K </H3>
 <H3>Register no: 212223230156</H3>
 <H3>Date: 09.11.2025 </H3>
